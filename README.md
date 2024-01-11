@@ -1,1 +1,1 @@
-# SPRING-CORE
+# STS
